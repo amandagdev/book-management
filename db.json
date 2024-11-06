@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "6090",
+      "name": "clara",
+      "email": "clara@gmail.com",
+      "password": "132456789",
+      "role": "admin"
+    },
+    {
+      "id": "84d5",
+      "name": "amanda",
+      "email": "amanda@gmail.com",
+      "password": "amanda123",
+      "role": "admin"
+    },
+    {
+      "id": "c881",
+      "name": "luiza",
+      "email": "luiza@gmail.com",
+      "password": "luiza123",
+      "role": "user"
+    }
+  ],
+  "books": [
+    {
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "pages": "1888",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Moby Dick",
+      "author": "Herman Melville",
+      "pages": 635
+    },
+    {
+      "name": "Crime",
+      "author": "Fyodor Dostoevsky",
+      "pages": 671,
+      "id": "10"
+    },
+    {
+      "name": "Anna",
+      "author": "Leo Tolstoy",
+      "pages": 864,
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "The Odyssey",
+      "author": "Homer",
+      "pages": 541
+    },
+    {
+      "name": "Pride",
+      "author": "Jane Austen",
+      "pages": 279,
+      "id": "14"
+    },
+    {
+      "id": "16",
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "pages": 1178
+    },
+    {
+      "id": "17",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "pages": 281
+    },
+    {
+      "id": "18",
+      "name": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "pages": 824
+    },
+    {
+      "id": "19",
+      "name": "War and Peace",
+      "author": "Leo Tolstoy",
+      "pages": 1225
+    },
+    {
+      "id": "20",
+      "name": "The Iliad",
+      "author": "Homer",
+      "pages": 704
+    },
+    {
+      "id": "4067",
+      "name": "das",
+      "author": "dasd",
+      "pages": "3"
+    },
+    {
+      "id": "8401",
+      "name": "Castro",
+      "author": "Castro",
+      "pages": "500"
+    },
+    {
+      "id": "e4e9",
+      "name": "Amanda",
+      "author": "Amanda Gomes",
+      "pages": "500"
+    }
+  ]
+}
