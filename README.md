@@ -30,7 +30,7 @@ Book Management App é uma aplicação de gerenciamento de livros desenvolvida e
   - **Editar e Remover Livros**: Apenas administradores podem modificar ou excluir livros existentes.
   - **Visualizar Detalhes do Livro**: Disponível para todos os usuários.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React com Typescript**: Interface de usuário e lógica principal do aplicativo.
 - **TailwindCSS**: Estilização com design responsivo.
@@ -38,11 +38,11 @@ Book Management App é uma aplicação de gerenciamento de livros desenvolvida e
 - **JSON Server**: Simulação de API REST para armazenamento e gerenciamento de dados em `db.json`.
 - **formik yup**: Controle de formulários.
 
-## 🎨 Estilização e UX
+## Estilização e UX
 
 A aplicação é estilizada com **TailwindCSS** para garantir um design moderno e responsivo, proporcionando uma experiência agradável e intuitiva.
 
-## 📦 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Passos para configuração e execução:
 
