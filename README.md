@@ -2,7 +2,7 @@
 
 Book Management App é uma aplicação de gerenciamento de livros desenvolvida em React com Typescript e estilizada com TailwindCSS. O sistema possui controle de acesso para diferentes tipos de usuários (usuário comum e administrador), permitindo que administradores gerenciem usuários e livros.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Autenticação de Usuário**:
 
